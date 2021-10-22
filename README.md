@@ -11,7 +11,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="BOOTSTRAP" width="30px" src="https://user-images.githubusercontent.com/72470885/122658713-2cee6100-d179-11eb-9b8c-2383b01f9534.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://user-images.githubusercontent.com/81429147/138447234-a50ae1f8-7a5c-4188-99c4-97d3ae553ab7.png" />
+<img align="left" alt="React" width="30px" src='https://user-images.githubusercontent.com/81429147/138447631-5dc83793-7f8f-4b13-b6cd-f89fcdf1cb70.png' />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
